@@ -8,6 +8,6 @@
 ## User Interface
 1. Button to press to switch server.
   - Future updates will have scrap and pool implementation. In scrap mode, once used, a proxy will no longer be able to be used. In pool mode, after use, proxy will be queued for use after others are used.
-1. Count of proxies.
-1. Proxy location and ping.
-1. Indication when proxy is offline or server is being switched.
+2. Count of proxies.
+3. Proxy location and ping.
+4. Indication when proxy is offline or server is being switched.
